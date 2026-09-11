@@ -9,14 +9,15 @@
 </p>
 
 ### 🚀 About Me
-🦇 &nbsp;ai-engineer-gheraibia-roufaida.vercel.app &nbsp;
-🔭 &nbsp;I'm currently working on **Student at badji mokhtar annaba university**  
-🌱 &nbsp;I'm currently learning **machine leaning**  
-👯 &nbsp;I'm looking to collaborate on **machine learning project**  
-🤔 &nbsp;I'm looking for help with **machine learning**  
-💬 &nbsp;Ask me about **python , react , ui/ux**  
-😄 &nbsp;Pronouns: **she /her**  
-⚡ &nbsp;Fun fact: **i have 3 eyes**
+
+🦇 &nbsp; [ai-engineer-gheraibia-roufaida.vercel.app](https://ai-engineer-gheraibia-roufaida.vercel.app/) <br>
+🔭 &nbsp; I'm currently a **Student at Badji Mokhtar Annaba University** <br>
+🌱 &nbsp; I'm currently learning **Machine Learning** <br>
+👯 &nbsp; I'm looking to collaborate on **Machine Learning projects** <br>
+🤔 &nbsp; I'm looking for help with **Machine Learning** <br>
+💬 &nbsp; Ask me about **Python, React, UI/UX** <br>
+😄 &nbsp; Pronouns: **she/her** <br>
+⚡ &nbsp; Fun fact: **I have 3 eyes. Why not? 👁️👁️👁️**
 
 ### 🛠️ Tech Stack
 
