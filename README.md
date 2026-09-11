@@ -17,7 +17,7 @@
 🤔 &nbsp; I'm looking for help with **Machine Learning** <br>
 💬 &nbsp; Ask me about **Python, React, UI/UX** <br>
 😄 &nbsp; Pronouns: **she/her** <br>
-⚡ &nbsp; Fun fact: **I have 3 eyes. Why not? 👁️👁️👁️**
+⚡ &nbsp; Fun fact: **I have 3 eyes**
 
 ### 🛠️ Tech Stack
 
